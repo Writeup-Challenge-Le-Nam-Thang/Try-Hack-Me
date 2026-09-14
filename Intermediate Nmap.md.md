@@ -1,6 +1,6 @@
 # TryHackMe — Intermediate Nmap (Writeup)
 
-![Room title](2.png)
+![Room title](https://github.com/Writeup-Challenge-Le-Nam-Thang/Try-Hack-Me/blob/0f4dfea42d636c9a19cb6f69a1c9da2ee477ce24/2.png)
 
 ## Overview
 
